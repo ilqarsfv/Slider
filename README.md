@@ -1,2 +1,1 @@
-Visit site:
-<br/>
+Visit site: https://ilqarsfv.github.io/Slider/
